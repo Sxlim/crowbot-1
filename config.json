@@ -1,0 +1,23 @@
+{
+
+    "login": { 
+     
+        "token": "TOKEN BOT"
+
+    },
+    "bot": { 
+        "owner": "ID", 
+        "dev": [
+            "<@ID>"
+          
+        ],
+
+        
+        "clientid": "TON ID",
+         "version": "V1.0",
+         "support": "❌",
+         "image": "TON GIF / IMAGE ICI (LIEN)",
+         "fhouther" : "discord.gg/"
+
+    }
+}
